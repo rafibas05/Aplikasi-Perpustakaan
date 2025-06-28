@@ -1,13 +1,14 @@
-Tugas Konversi Mata Uang - Pemrograman II
-Anggota Kelompok 6:
-NANDI MULYANA
-PUNIKO DHINO SAE
-RAFI BASTHARA
-RAIHAN DASA ARI MUKTI
-RAMA PRANATA
+# Tugas Konversi Mata Uang - Pemrograman II
+
+## Anggota Kelompok 6:
+### NANDI MULYANA
+### PUNIKO DHINO SAE
+### RAFI BASTHARA
+### RAIHAN DASA ARI MUKTI
+### RAMA PRANATA
 
 
-Deskripsi Program
+# Deskripsi Program
 Deskripsi:
 Ini adalah Aplikasi Mini perpustakaan berbasis console dengan OOP.
 Dengan Fitur:
@@ -17,7 +18,7 @@ Dengan Fitur:
 ~Laporan buku dipinjam
 
 
-Cara Menjalankan
+# Cara Menjalankan
 Buka folder project di NetBeans
 Masuk Folder src dan Jalankan AplikasiPerpustakaan.java
 1. Tambah Buku
