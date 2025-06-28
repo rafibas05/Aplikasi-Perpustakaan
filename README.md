@@ -1,4 +1,4 @@
-# Tugas Konversi Mata Uang - Pemrograman II
+# Tugas Aplikasi Mini Perpustakaan - Pemrograman II
 
 ## Anggota Kelompok 6:
 ### NANDI MULYANA
